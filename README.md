@@ -1,0 +1,1 @@
+# Steam-Screenshot-Cleaner
